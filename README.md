@@ -1,4 +1,9 @@
-# hello-world
-hi!
-I'm new to this.
-This is my first try.
+#include<stdio.h>
+void main()
+{
+int n;
+printf("enter a number");
+scanf("%d",&n);
+printf("%d",n);
+getch();
+}
