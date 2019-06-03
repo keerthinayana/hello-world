@@ -7,6 +7,7 @@ scanf("%d",&n);
 printf("%d",n);
 getch();
 }
+
 #include<stdio.h>
 void main()
 {
