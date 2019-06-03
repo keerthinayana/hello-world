@@ -21,3 +21,16 @@ printf("\n",x/d);
 }
 getch();
 }
+#include<stdio.h>
+void main()
+{
+int t,n,m;
+printf("enter the number of test cases");
+scanf("%d",&t);
+scanf("%d\n%d",n,m);
+if(m%n==0)
+printf("\nyes");
+else
+printf("\nno");
+getch();
+}
