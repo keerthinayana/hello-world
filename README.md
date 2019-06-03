@@ -21,6 +21,7 @@ printf("\n",x/d);
 }
 getch();
 }
+
 #include<stdio.h>
 void main()
 {
